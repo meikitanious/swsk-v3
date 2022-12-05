@@ -21,7 +21,6 @@
     <div class="hero-content">
         <h1>We Tackle Your <br>Growth Problems</h1>
         <p>Scalewhale is a Paid Media agency<br> with expertise in Analytics, and MarOps</p>
-        <button id=cta></button>
         <a style="color: {darkMode ? "#056AFF" : "black"}" id="get-in-touch" href="/contact">Get in Touch</a>
     </div>
   </section>
