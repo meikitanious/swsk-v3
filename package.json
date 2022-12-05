@@ -37,6 +37,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@vime/core": "^5.4.0",
+		"@vime/svelte": "^5.4.0",
 		"swiper": "^8.4.5"
 	}
 }
