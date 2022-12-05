@@ -15,7 +15,7 @@
 <div class="main-page">
   <section class="hero">
     <video autoplay="autoplay" muted loop id="video" playsinline style="pointer-events: none;">
-        <source src="https://customer-si5cxun7zm99ttrb.cloudflarestream.com/18d5cedeb267c98cc1a78b3dbdd849bf/manifest/video.m3u8" type="video/mp4" />
+        <source src="/videos/whales.mp4" type="video/mp4" />
     </video>
     <div class="hero-content">
         <h1>We Tackle Your <br>Growth Problems</h1>
